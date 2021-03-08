@@ -1,0 +1,22 @@
+{
+  "name": "v-guardian",
+  "version": "1.0.0",
+  "description": "Discord bot for Land of V",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vrlnx/V-Guardian.git"
+  },
+  "author": "vrl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vrlnx/V-Guardian/issues"
+  },
+  "homepage": "https://github.com/vrlnx/V-Guardian#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
